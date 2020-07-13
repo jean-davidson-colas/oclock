@@ -1,0 +1,93 @@
+@font-face {
+    font-family: 'Open 24 Display St';
+    src: url('Open 24 Display St.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    }
+
+body
+{
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: teal;
+    font-size:3rem;
+
+}
+
+#alarme
+{
+    color: white;
+    text-align: center;
+
+}
+
+#for
+{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+
+#clock p 
+{
+    color: white;
+    text-align: center;
+}
+p
+{
+    color: white;
+}
+
+.titre
+{
+    text-decoration: rgb(33, 34, 77) underline;
+}
+
+
+
+
+
+#clockf
+{
+    display: flex;
+    flex-direction: row;
+    font-family: 'Open 24 Display St';
+    justify-content: center;
+    font-size: 12rem;
+    
+
+}
+
+#reveil
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#oeuf
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+#min
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+#reveil
+{
+    display: flex;
+    align-items: column;
+    
+}
+
+
